@@ -1,0 +1,132 @@
+{
+    "urls": [
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🍅小苹果"
+        },
+        {
+        "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+       "name":"🛎甜蜜"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🛀🏻刚刚猫"
+        },
+        {
+        "url":"http://刚刚.live/A佬",
+       "name":"🍀刚刚A佬"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🏋🏻每日神器"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "🌤太阳"
+        },
+       {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐰吾爱评测"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🚧云星家庭版"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🛎云星bili"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🎱云星ali"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "⛵️月光宝盒Box"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "⛵️月光宝盒bili"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0",
+            "name": "⛵️月光宝盒ali"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
+            "name": "🕍最全接口"
+        },        
+        {
+            "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt ",
+            "name": "🌈最新接口"
+        },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+            "name": "🐰猫影视Pro( 823)"
+        },
+         {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🐎VIP影视"
+        },
+         {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "🎸白嫖87"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🍀Meowcf"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🚴🏻0json"
+        },
+        {
+        "url":"https://dlj2.cn/星辰影视",
+       "name":"👀星辰影视"
+        },
+        {
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "name": "🐰星辰"
+        },
+        {
+        "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+       "name":"🌊000m3u8"
+      },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "🐱牛魔指王"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "👀一帆风顺"
+        }, 
+        {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "⛽️0725"
+        },       
+        {
+            "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+            "name": "🌅T20"
+        },
+        {
+        "url":"https://0dlj.cn/丰富点",
+       "name":"🏓丰富点"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/29333.txt",
+            "name": "👙猫不吃鱼"
+        },
+       {
+            "url": "https://dlj2.cn/613ot",
+            "name": "🐝星河福利"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "🐝yeshijieC"
+        },  
+        {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🐝943bc7"
+        }
+    ]
+}
