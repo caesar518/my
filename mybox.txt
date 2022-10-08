@@ -1,6 +1,18 @@
 {
     "urls": [
         {
+            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
+            "name": "🕍最全接口"
+        },        
+        {
+            "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt ",
+            "name": "🌈最新接口"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "学习网站"
+        },
+        {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🍅小苹果"
         },
@@ -29,6 +41,14 @@
             "name": "🐰吾爱评测"
         },
         {
+        "url":"https://dlj2.cn/星辰影视",
+       "name":"👀星辰影视"
+        },
+        {
+            "url": "https://0a.fit/7777",
+            "name": "🐱7777"
+        },
+        {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🚧云星家庭版"
         },
@@ -53,20 +73,20 @@
             "name": "⛵️月光宝盒ali"
         },
         {
-            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-            "name": "🕍最全接口"
-        },        
-        {
-            "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt ",
-            "name": "🌈最新接口"
-        },
-        {
-            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-            "name": "🐰猫影视Pro( 823)"
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "🐤影阁"
         },
          {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
             "name": "🐎VIP影视"
+        },
+       {
+            "url": "https://84k.cn/tvmao",
+            "name": "🕍TV猫"
+        },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+            "name": "🐰猫影视Pro( 823)"
         },
          {
             "url": "http://js.134584.xyz/json/pp87.json",
@@ -79,10 +99,6 @@
         {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🚴🏻0json"
-        },
-        {
-        "url":"https://dlj2.cn/星辰影视",
-       "name":"👀星辰影视"
         },
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
@@ -117,16 +133,24 @@
             "name": "👙猫不吃鱼"
         },
        {
-            "url": "https://dlj2.cn/613ot",
-            "name": "🐝星河福利"
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
+            "name": "🐝月光宝盒PLUS"
         },
+        {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🐝福利接口1"
+        }, 
+        {
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
+            "name": "🐝福利接口2"
+        },  
+        {
+            "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
+            "name": "🐝福利接口3"
+        },  
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "🐝yeshijieC"
-        },  
-        {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🐝943bc7"
         }
     ]
 }
