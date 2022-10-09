@@ -141,6 +141,10 @@
             "name": "👙猫不吃鱼"
         },
         {
+            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
+            "name": "🐝电视免VIP"
+        },
+        {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "🐝yeshijieC.json"
         },
