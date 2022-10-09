@@ -139,9 +139,7 @@
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/29333.txt",
             "name": "👙猫不吃鱼"
-        }
-    ],
-    "vip": [
+        },
         {
             "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
             "name": "🐝68175.txt"
@@ -174,15 +172,15 @@
         },
         {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🐝福利接口1"
+            "name": "🐝8f1c5"
         }, 
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
-            "name": "🐝福利接口2"
+            "name": "🐝chengxue"
         },  
         {
             "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
-            "name": "🐝福利接口3"
+            "name": "🐝mmtekamu"
         }
     ]
 }
