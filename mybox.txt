@@ -29,6 +29,10 @@
        "name":"🍀刚刚A佬"
         },
         {
+            "url": "https://84k.cn/tvmao",
+            "name": "🕍TV猫"
+        },
+        {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🏋🏻每日神器"
         },
@@ -73,16 +77,20 @@
             "name": "⛵️月光宝盒ali"
         },
         {
+            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🐱PY测试"
+        },
+        {
+            "url": "https://drpy.owen10086.repl.co/config/2",
+            "name": "🐱道长在线"
+        },
+        {
             "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
             "name": "🐤影阁"
         },
          {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
             "name": "🐎VIP影视"
-        },
-       {
-            "url": "https://84k.cn/tvmao",
-            "name": "🕍TV猫"
         },
         {
             "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
