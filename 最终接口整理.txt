@@ -1,4 +1,4 @@
-﻿各种空壳软件接口、直播源合集10月1日
+各种空壳软件接口、直播源合集10月1日
 绿色环保类
 TVBOX多仓库多线路仓库地址家庭版（需要配合tvbox多仓库多线路版使用）
 http://52bsj.vip:81/api/v3/file/get/51840/%E5%AE%B6%E5%BA%AD%E6%8E%A5%E5%8F%A3%E4%BB%93%E5%BA%93%E6%A8%A1%E7%89%88.txt?sign=XgczZ_6xbEKPkicSNLbLPE9tTVppR0XP0fTHRYUke2I%3D%3A0
@@ -223,3 +223,10 @@ https://gitcode.net/zqk219/baip/-/raw/main/tv/lao1.txt
 https://gitcode.net/zqk219/baip/-/raw/main/tv/lao4.json
 https://gitcode.net/zqk219/baip/-/raw/main/tv/%E8%80%816.json
 https://agit.ai/zqk219/ziyong2/src/branch/master/ziyong99/18.json
+
+
+PY测试
+https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
+
+道长在线
+https://drpy.owen10086.repl.co/config/2
