@@ -1,4 +1,6 @@
-各种空壳软件接口、直播源合集10月1日
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+
+
 绿色环保类
 TVBOX多仓库多线路仓库地址家庭版（需要配合tvbox多仓库多线路版使用）
 http://52bsj.vip:81/api/v3/file/get/51840/%E5%AE%B6%E5%BA%AD%E6%8E%A5%E5%8F%A3%E4%BB%93%E5%BA%93%E6%A8%A1%E7%89%88.txt?sign=XgczZ_6xbEKPkicSNLbLPE9tTVppR0XP0fTHRYUke2I%3D%3A0
@@ -230,3 +232,10 @@ https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
 
 道长在线
 https://drpy.owen10086.repl.co/config/2
+
+新鲜5条网络接口 
+https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0  
+https://qiu.moe/m3u8  
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json   
+https://pan.css.lc/api/v3/file/get/89953/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92%E6%8E%A5%E5%8F%A3.txt?sign=2UDqQ7wXpPWuiIuUu_Iz9KvbKJ2KV8WZAlBZozDO_u8%3D%3A0
+http://0454dt.com/tvbox
