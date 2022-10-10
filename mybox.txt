@@ -77,12 +77,20 @@
             "name": "⛵️月光宝盒ali"
         },
         {
+            "url": "http://0454dt.com/tvbox",
+            "name": "🐱2哈社区"
+        },
+        {
+            "url": "https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0",
+            "name": "🐱PY89956"
+        },
+        {
             "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐱PY测试"
+            "name": "🐱PYlm317379829"
         },
         {
             "url": "https://drpy.owen10086.repl.co/config/2",
-            "name": "🐱道长在线"
+            "name": "🐱PY道长在线"
         },
         {
             "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
