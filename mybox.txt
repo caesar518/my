@@ -5,14 +5,14 @@
         {
             "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
             "name": "🕍最全接口"
-        },        
+        }, 
         {
             "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt ",
             "name": "🌈最新接口"
-        },
+        }, 
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "学习网站"
+            "name": "✍学习网站"
         },
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
@@ -48,11 +48,15 @@
         },
         {
         "url":"https://dlj2.cn/星辰影视",
-       "name":"👀星辰影视"
+       "name":"👀星辰影视1"
         },
         {
-            "url": "https://0a.fit/7777",
-            "name": "🐱7777"
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "name": "🐰星辰影视2"
+        },
+         {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "🎸白嫖87"
         },
         {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
@@ -83,18 +87,6 @@
             "name": "🐱2哈社区"
         },
         {
-            "url": "https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0",
-            "name": "🐱PY89956"
-        },
-        {
-            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐱PYlm317379829"
-        },
-        {
-            "url": "https://drpy.owen10086.repl.co/config/2",
-            "name": "🐱PY道长在线"
-        },
-        {
             "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
             "name": "🐤影阁"
         },
@@ -106,10 +98,6 @@
             "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
             "name": "🐰猫影视Pro( 823)"
         },
-         {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "🎸白嫖87"
-        },
         {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🍀Meowcf"
@@ -119,13 +107,13 @@
             "name": "🚴🏻0json"
         },
         {
-            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-            "name": "🐰星辰"
-        },
-        {
         "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
        "name":"🌊000m3u8"
-      },
+        },
+        {
+            "url": "https://0a.fit/7777",
+            "name": "🐱7777"
+        },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "🐱牛魔指王"
@@ -149,6 +137,18 @@
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/29333.txt",
             "name": "👙猫不吃鱼"
+        },
+        {
+            "url": "https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0",
+            "name": "🐱PY89956"
+        },
+        {
+            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🐱PYlm317379829"
+        },
+        {
+            "url": "https://drpy.owen10086.repl.co/config/2",
+            "name": "🐱PY道长在线"
         },
         {
             "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
