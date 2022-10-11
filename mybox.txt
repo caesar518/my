@@ -19,6 +19,34 @@
             "name": "🍅小苹果"
         },
         {
+            "url": "https://pan.css.lc/api/v3/file/get/89954/%E5%8D%8A%E7%BB%BF%E8%89%B2%E5%8D%8A%E6%AD%A3%E5%B8%B8.txt?sign=7Fil1Cp5troAPHAQ-xFw-0CcpjenFdnUAZjFuQ8VnMk%3D%3A0",
+            "name": "🐱星河软件园"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🚧云星家庭版"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🛎云星bili"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🎱云星ali"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "⛵️月光宝盒Box"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "⛵️月光宝盒bili"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0",
+            "name": "⛵️月光宝盒ali"
+        },
+        {
         "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
        "name":"🛎甜蜜"
         },
@@ -53,34 +81,10 @@
         {
         "url":"https://dlj2.cn/星辰影视",
        "name":"👀星辰影视"
-        },       
-        {
+        },
+         {
             "url": "http://js.134584.xyz/json/pp87.json",
             "name": "🎸白嫖87"
-        },
-        {
-            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "🚧云星家庭版"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "🛎云星bili"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🎱云星ali"
-        },
-       {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "⛵️月光宝盒Box"
-        },
-       {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "⛵️月光宝盒bili"
-        },
-       {
-            "url": "http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0",
-            "name": "⛵️月光宝盒ali"
         },
         {
             "url": "http://0454dt.com/tvbox",
@@ -140,15 +144,15 @@
         },
         {
             "url": "https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0",
-            "name": "🐱PY89956"
+            "name": "🐱[DRPY]89956"
         },
         {
             "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐱PYlm317379829"
+            "name": "🐱[DRPY]lm317379829"
         },
         {
             "url": "https://drpy.owen10086.repl.co/config/2",
-            "name": "🐱PY道长在线"
+            "name": "🐱[DRPY]道长在线"
         },
         {
             "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
