@@ -42,9 +42,25 @@
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🍅小苹果[多条线路]"
         },
+       {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐰吾爱评测[多条线路]"
+        },
         {
-            "url": "http://刚刚.live/猫",
-            "name": "🛀🏻刚刚猫[多条线路]"
+            "url":"http://47.242.90.42:8888/down/2YPZ9Cq8lp8L",
+            "name":"👀电视免VIP[多条线路]"
+        },
+        {
+            "url":"https://share.nite07.com/api/v3/file/source/23071/vipp.json?sign=c1_fZzKEVl7yz5k0YDAq4Ryrm5RaJekvLugaNsDEjeY%3D%3A0",
+            "name":"👀应用多多[多条线路]"
+        },
+        {
+            "url": "https://84k.cn/tvmao",
+            "name": "🕍TV猫[多条线路]"
+        },
+        {
+            "url":"https://dlj2.cn/星辰影视",
+            "name":"👀星辰影视[多条线路]"
         },
         {
             "url": "https://pan.css.lc/api/v3/file/get/89954/%E5%8D%8A%E7%BB%BF%E8%89%B2%E5%8D%8A%E6%AD%A3%E5%B8%B8.txt?sign=7Fil1Cp5troAPHAQ-xFw-0CcpjenFdnUAZjFuQ8VnMk%3D%3A0",
@@ -54,13 +70,25 @@
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🏋🏻每日神器[多条线路]"
         },
-       {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🐰吾爱评测[多条线路]"
+        {
+            "url": "https://dlj2.cn/77",
+            "name": "🕍77"
         },
         {
-            "url":"http://47.242.90.42:8888/down/2YPZ9Cq8lp8L",
-            "name":"👀电视免VIP[多条线路]"
+            "url": "https://dlj2.cn/自用",
+            "name": "⛽️自用[多条线路]"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐻潇洒[多条线路]"
+        }, 
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🛀🏻刚刚[多条线路]"
+        },
+        {
+            "url": "https://php.dawwiqingyi.repl.co/json/yyds.json",
+            "name": "🌅永远滴神[多条线路]"
         },
          {
             "url": "http://js.134584.xyz/json/pp87.json",
@@ -69,14 +97,6 @@
         {
             "url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
             "name":"🚧甜蜜[多条线路]"
-        },
-        {
-            "url": "https://84k.cn/tvmao",
-            "name": "🕍TV猫[多条线路]"
-        },
-        {
-            "url":"https://dlj2.cn/星辰影视",
-            "name":"👀星辰影视[多条线路]"
         },
         {
             "url": "http://0454dt.com/tvbox",
@@ -96,7 +116,7 @@
         },
         {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🍀Meowcf[多条线路]"
+            "name": "🍆CH猫友[多条线路]"
         },
         {
             "url":"http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
@@ -110,6 +130,22 @@
             "url": "http://miaotvs.cn/osc",
             "name": "🌤太阳接口[多条线路]"
         },
+        {
+            "url": "https://raw.githubusercontents.com/jie20091116/cat/f92c37b78340a1379739f7c1165d3d853563087a/TVBOX/box0916.txt",
+            "name": "🚙杰哥接口" 
+        },
+         { 
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", 
+            "name": "🦁缓冲接口"
+         }, 
+         { 
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", 
+            "name": "🎁伍佰园接口"
+         }, 
+         { 
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json", 
+            "name": "🛣军碟接口"
+         }, 
         {
             "url": "http://9xi4o.tk/0725.json",
             "name": "⛽️4K云盘[多条线路]"
@@ -136,7 +172,7 @@
         },
         {
             "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "👙乱世[多条线路]"
+            "name": "👙乱世佳人[多条线路]"
         },
         {
             "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
@@ -190,7 +226,7 @@
         {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
             "name": "🐝8f1c5[多条线路]"
-        }, 
+        },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
             "name": "🐝chengxue[多条线路]"
