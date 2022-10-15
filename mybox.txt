@@ -51,8 +51,16 @@
             "name":"👀电视免VIP[多条线路]"
         },
         {
-            "url":"https://share.nite07.com/api/v3/file/source/23071/vipp.json?sign=c1_fZzKEVl7yz5k0YDAq4Ryrm5RaJekvLugaNsDEjeY%3D%3A0",
+            "url":"https://raw.iqiq.io/leevi0709/duo/main/m.json",
             "name":"👀应用多多[多条线路]"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐻潇洒[多条线路]"
+        }, 
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🛀🏻刚刚[多条线路]"
         },
         {
             "url": "https://84k.cn/tvmao",
@@ -77,14 +85,6 @@
         {
             "url": "https://dlj2.cn/自用",
             "name": "⛽️自用[多条线路]"
-        },
-        {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "🐻潇洒[多条线路]"
-        }, 
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "🛀🏻刚刚[多条线路]"
         },
         {
             "url": "https://php.dawwiqingyi.repl.co/json/yyds.json",
