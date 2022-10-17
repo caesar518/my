@@ -1,18 +1,20 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//仓库来源：https://agit.ai/hu/hcr/raw/branch/master/99668.txt
+
 
 {
     "urls": [
         {
             "url": "http://9xi4o.tk/0725.json",
-            "name": "⛽️资源来源于网络"
+            "name": "⛽️胡一刀"
         },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "🚧请联系删除"
+            "name": "🚧斗罗大陆"
         },
         {
             "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-            "name": "🕍星河软件园"
+            "name": "🕍最全接口"
         },
         
         {
@@ -37,8 +39,8 @@
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🚴🏻胡五刀"
         },{
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🌊乱世佳人"
+            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665728457.txt",
+            "name": "🍄网盘高清"
         },{
             "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
             "name": "🏓魔力宝贝"
@@ -100,8 +102,8 @@
         },
         
 {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "👜V线路6"
+            "url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+            "name": "🌹花花世界"
         },
         
         
