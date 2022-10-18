@@ -3,7 +3,7 @@
 //1.安卓哥开发【公众号】下载“TVBOX多仓版”
 //2.安装MT管理器后，打开“TVBOX多仓版”
 //3.打开“classes.dex”，打开方式“Dex编辑器++”
-//4.浏览“androidx"-"base"-"rc”,查找大约在第69行“const-string p1”
+//4.浏览“androidx"-"base"-"rc或yc”,查找“const-string p1”大约在第69行“ABC”
 //5.“ABC”修改为“https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json”
 //内置仓库线路1：https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json
 //内置仓库线路2：https://github.com/caesar518/my/raw/main/myhouse.json
