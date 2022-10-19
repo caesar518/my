@@ -4,6 +4,152 @@
 //超级仓库
 {
     "urls": [
+        {
+           "url":"https://raw.fastgit.org/leevi0709/duo/main/v.json",
+           "name":"🔔点击选择下方线路"
+        },
+        {
+           "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
+           "name":"🏡应用多多家庭版"
+        },
+        {
+          "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+          "name":"🚀南风线路"
+        },
+        {
+          "url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+          "name":"🚀月光宝盒"
+        },
+        {
+          "url":"https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+          "name":"🚀云星家庭"
+        },
+        {
+          "url":"http://111.67.196.181/mtv/meow.txt",
+          "name":"🚀太阳线路"
+        },
+         {
+           "url": "https://download.kstore.space/download/2863/01.txt",
+           "name":"🚀潇洒线路"
+        },
+        {
+          "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+           "name":"🚀元兴线路"
+        },
+        {
+          "url":"http://刚刚.live/猫",
+          "name":"🚀刚刚线路"
+        },
+        {
+          "url":"https://神器每日推送.tk/pz.json",
+          "name":"🚀神器线路"
+        },
+        {
+          "url":"https://raw.liucn.cc/box/m.json",
+          "name":"🚀老刘备线路"
+        },
+        {
+          "url":"http://dxawi.github.io/0/0.json",
+          "name":"🚀dxawi线路"
+        },
+        {
+          "url":"http://js.134584.xyz/json/pp87.json",
+          "name":"🚀星辰影视线路"
+        },
+        {
+          "url":"http://000913.xyz/box/tv.json",
+          "name":"🚀源享家线路"
+        },{
+"url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+"name":"🍭甜蜜线路"
+},
+{
+"url":"http://byyds.top/w.txt",
+"name":"🍭BYYDS线路"
+},
+{
+"url":"https://raw.fastgit.org/once678/looktv/main/tvbox8.json",
+"name":"🍭once678线路"
+},
+{
+"url":"http://52bsj.vip:98/wuai",
+ "name":"🍭吾爱线路"
+},
+{
+"url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+"name":"🍭分享者线路"
+},
+{
+"url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+"name":"🍭agit/abc线路"
+},
+{
+"url": "https://ju.binghe.ga/4.txt",
+"name":"🍭冰河线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+ "name": "🍭云星哔哩线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+"name": "🍭云星阿里线路"
+},
+{
+"url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg",
+"name":"🍭agit/66666线路"
+},
+{
+"url":"https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+"name":"🍭蚂蚁论坛线路"
+},
+{
+            "url": "http://43.139.29.179:5705/config/2",
+            "name": "💎道长T4线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "💎小苹果TV线路"
+        },
+         {
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+            "name": "💎佰欣园线路"
+        },
+        {
+            "url": "https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0",
+            "name": "💎星河线路"
+        },
+        {
+           "url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+           "name":"💎PinkBird线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+            "name": "💎二哈线路"
+        },
+         {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "💎zzz1线路"
+        },
+         {
+            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "name": "💎小马线路"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "💎乱世线路"
+        },             
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "💎兽爪线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
+            "name": "💎chengxueli线路"
+        },
+
+
+
         {"url": "http://9xi4o.tk/0725.json", "name": "⛽️胡一刀"},
         {"url": "https://raw.iqiq.io/liu673cn/box/main/m.json", "name": "🚧斗罗大陆"},
         {"url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt","name": "🕍最全接口"},
@@ -12,62 +158,6 @@
         {"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json","name": "🌅胡二刀"},
         {"url": "http://js.134584.xyz/json/pp87.json","name": "🎸胡三刀"},
         {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json","name": "🍀胡四刀"},
-        {"url": "https://dxawi.github.io/0/0.json","name": "🚴🏻胡五刀"},{"url": "http://shuyuan.miaogongzi.net/shuyuan/1665728457.txt","name": "🍄网盘高清"},
-        {"url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0","name": "🏓魔力宝贝"},
-        {"url": "http://js.134584.xyz/json/pp87.json","name": "🐝白嫖大王"},
-        {"url": "https://raw.iqiq.io/liu673cn/box/main/m.json","name": "🐱牛魔指王"},
-        {"url": "https://神器每日推送.tk/pz.json","name": "🏋🏻神器一号"},
-        {"url": "http://miaotvs.cn/osc","name": "🌤太阳之神"},
-        {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "👀一帆风顺"},
-        {"url": "http://刚刚.live/猫","name": "🛀🏻刚刚刚猫"},
-        {"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8","name": "🖼云星一号"},
-        {"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json","name": "🛎云星听歌"},
-        {"url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name": "🎱云云搜索"},
-        {"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "⛵️月光宝盒Box"},       
-        {"url": "https://77url.com/ispEC ","name": "🛰TV星河频道"},
-        {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"🚀南风线路"},
-        {"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"🚀月光宝盒"},
-        {"url":"https://maoyingshi.cc/tvbox/云星日记/1.m3u8","name":"🚀云星家庭"},
-        {"url":"http://111.67.196.181/mtv/meow.txt","name":"🚀太阳线路"},
-        { "url": "https://download.kstore.space/download/2863/01.txt", "name":"🚀潇洒线路"},
-        {"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json", "name":"🚀元兴线路"},
-        {"url":"http://刚刚.live/猫","name":"🚀刚刚线路"},
-        {"url":"https://神器每日推送.tk/pz.json","name":"🚀神器线路"},
-        {"url":"https://raw.liucn.cc/box/m.json","name":"🚀老刘备线路"},
-        {"url":"http://dxawi.github.io/0/0.json","name":"🚀dxawi线路"},
-        {"url":"http://js.134584.xyz/json/pp87.json","name":"🚀星辰影视线路"},
-        {"url":"http://000913.xyz/box/tv.json","name":"🚀源享家线路"},
-        {"url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json","name":"🍭甜蜜线路"},
-        {"url":"http://byyds.top/w.txt","name":"🍭BYYDS线路"},
-        {"url":"https://raw.fastgit.org/once678/looktv/main/tvbox8.json","name":"🍭once678线路"},
-        {"url":"http://52bsj.vip:98/wuai", "name":"🍭吾爱线路"},
-        {"url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name":"🍭分享者线路"},
-        {"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name":"🍭agit/abc线路"},
-        {"url": "https://ju.binghe.ga/4.txt","name":"🍭冰河线路"},
-        {"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json", "name": "🍭云星哔哩线路"},
-        {"url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name": "🍭云星阿里线路"},
-        {"url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg","name":"🍭agit/66666线路"},
-        {"url":"https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-"name":"🍭蚂蚁论坛线路"},
-        {"url": "http://43.139.29.179:5705/config/2", "name": "💎道长T4线路"},
-        {"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name": "💎小苹果TV线路"},
-        {"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt","name": "💎佰欣园线路"},
-        {"url": "https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0","name": "💎星河线路"},
-        {"url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json","name":"💎PinkBird线路"},
-        {"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox", "name": "💎二哈线路"},
-        {"url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json","name": "💎zzz1线路"},
-        {"url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0","name": "💎小马线路"},
-        {"url": "http://www.dmtv.ml/mao/single.json","name": "💎乱世线路"},             
-        {"url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0","name": "💎兽爪线路"},
-        {"url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json","name": "💎chengxueli线路"},
-        {"url": "https://raw.iqiq.io/liu673cn/box/main/m.json","name": "👙V线路2"},
-        {"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json","name": "🔍V线路3"},
-        {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "🎈V线路4"},
-        {"url": "https://dxawi.github.io/0/0.json","name": "🐰V线路5"},
-        {"url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt","name": "🌹花花世界"},
-        
-        
-
       {"url": "https://ju.binghe.ga/4.txt","name": "🦆线路1"},
       {"url":"https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
        "name":"🧞线路2"   },

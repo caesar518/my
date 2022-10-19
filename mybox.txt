@@ -71,7 +71,7 @@
             "name":"👀电视免VIP[多条线路]"
         },
         {
-            "url":"https://share.nite07.com/api/v3/file/source/23071/vipp.json?sign=c1_fZzKEVl7yz5k0YDAq4Ryrm5RaJekvLugaNsDEjeY%3D%3A0",
+            "url":"https://raw.fastgit.org/leevi0709/apps/main/1",
             "name":"🐤应用多多[多条线路]"
         },
         {
