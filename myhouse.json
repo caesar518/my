@@ -3,7 +3,7 @@
 //1.安卓哥开发【公众号】下载“TVBOX多仓版”
 //2.安装MT管理器后，打开“TVBOX多仓版”
 //3.打开“classes.dex”，打开方式“Dex编辑器++”
-//4.浏览“androidx"-"base"-"rc或yc”,查找“const-string p1”大约在第69行“ABC”
+//4.浏览“androidx"-"base",查找“const-string p1”大约在第69行“ABC”
 //5.“ABC”修改为“https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json”
 //内置仓库线路1：https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json
 //内置仓库线路2：https://github.com/caesar518/my/raw/main/myhouse.json
@@ -17,14 +17,8 @@
     {"sourceName":"🐻agit2仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"},
     {"sourceName":"⛽️github1仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
     {"sourceName":"🏓github2仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},
-  {
-    "sourceName": "安卓哥开发1号仓",
-    "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
-  },
-  {
-    "sourceName": "安卓哥开发2号仓",
-    "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"
-  },
+    {"sourceName": "安卓哥开发1号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+    {"sourceName": "安卓哥开发2号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
     {"sourceName":"🐰吾爱仓库","sourceUrl":"https://download.kstore.space/download/2888/XB/多仓库.txt"},
     {"sourceName":"☁️云星仓库","sourceUrl":"https://maoyingshi.cc/可视TV/117/api.json"},
     {"sourceName":"💚多多①号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/1"},
@@ -32,7 +26,8 @@
     {"sourceName":"💚多多③号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/3"},
     {"sourceName":"🧡多多④号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/4"},
     {"sourceName":"🧡多多⑤号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/5"},    
-    {"sourceName":"⛵️涤灵苑仓库","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
+    {"sourceName":"⛵️涤灵苑①号仓","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},    
+    {"sourceName":"⛵️涤灵苑②号仓","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"},
     {"sourceName":"⛵️星河仓库","sourceUrl":"https://pan.css.lc/api/v3/file/get/89945/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%A4%9A%E7%BA%BF%E8%B7%AF%E4%BB%93%E5%BA%93.txt?sign=2ajJ85uhS8mnmvvOICeW4a8d1AeVjp5VFZvBgbAz0cc%3D%3A0"}
     ]
 }
