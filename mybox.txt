@@ -35,7 +35,7 @@
 
 //DRPY
         {
-            "url": "https://drpy.owen10086.repl.co/config/2",
+            "url": "https://drpy.owen10086.repl.co/config/0",
             "name": "🐱云盘在线[DRPY接口]"
         },
         {
@@ -59,16 +59,12 @@
             "name": "🐱甜蜜[DRPY接口]"
         },
         {
-            "url": "https://www.xueximeng.com/tvbox/py.json",
-            "name": "🐱星河软件园[DRPY接口]"
-        },
-        {
             "url": "https://pan.css.lc/api/v3/file/get/89956/dyip.txt?sign=QOIDRL0qppmo0GD78O78EzwpsXjsRqql_UYL-YfU9no%3D%3A0",
-            "name": "🐱89956[DRPY接口]"
+            "name": "🐱星河软件园1[DRPY接口]"
         },
         {
             "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐱lm317379829[DRPY接口]"
+            "name": "🐱星河软件园2[DRPY接口]"
         },
 
 
