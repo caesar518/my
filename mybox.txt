@@ -3,74 +3,9 @@
 {
     "urls": [
 
-//本地 
+//大神线路
         {
            "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
-           "name":"↓↓↓点击选择🏡本地线路"
-        },
-        {
-           "url":"clan://localhost/TVBox/JS/js.json",
-           "name":"🔔吾爱[本地接口]"
-         },
-        {
-            "url": "clan://localhost/TVBox/index.json",
-            "name": "🎁欧歌[本地接口]"
-        },
-        {
-            "url": "clan://localhost/TVBox/my.json",
-            "name": "🎁自用1[本地接口]"
-        },
-        {
-            "url": "clan://localhost/TVBox/配置接口.json",
-            "name": "🎁自用2[本地接口]"
-        },
-        {
-            "url": "clan://localhost/TVBox/qiaoji00.json",
-            "name": "🎁qiaoji00[本地接口]"
-        },
-        {
-            "url": "clan://localhost/TVBox/xzy.json",
-            "name": "🎁xzy[本地接口]"
-        },
-
-//DRPY
-        {
-           "url": "",
-           "name":"↓↓↓点击选择🏡DRPY线路"
-        },
-        {
-            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐱星河软件园[DRPY接口]"
-        },
-        {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
-            "name": "🐱甜蜜[DRPY接口]"
-        },
-        {
-            "url": "http://101.34.67.237/config/1",
-            "name": "🐱道长在线1[DRPY接口]"
-        },
-        {
-            "url": "http://101.34.67.237/config/2",
-            "name": "🐱道长在线2[DRPY接口]"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "🐱道长在线3[DRPY接口]"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-            "name": "🐱玖妖[DRPY接口]"
-        },
-        {
-            "url": "https://drpy.owen10086.repl.co/config/2",
-            "name": "🐱云盘在线[DRPY接口]"
-        },
-
-
-//网络大神线路
-        {
-           "url": "",
            "name":"↓↓↓点击选择🏡大神线路"
         },
         {
@@ -177,9 +112,79 @@
 
 
 
-//网络大神线路        
+//本地线路 
         {
-           "url": "",
+           "url": "clan://localhost/TVBox/配置接口.json",
+           "name":"↓↓↓点击选择🏡本地线路"
+        },
+        {
+            "url": "clan://localhost/TVBox/配置接口.json",
+            "name": "🎁自用1[本地接口]"
+        },
+        {
+            "url": "clan://localhost/TVBox/my.json",
+            "name": "🎁自用2[本地接口]"
+        },
+        {
+           "url":"clan://localhost/TVBox/JS/js.json",
+           "name":"🔔吾爱[本地接口]"
+         },
+        {
+            "url": "clan://localhost/TVBox/index.json",
+            "name": "🎁欧歌[本地接口]"
+        },
+        {
+            "url": "clan://localhost/TVBox/qiaoji00.json",
+            "name": "🎁qiaoji00[本地接口]"
+        },
+        {
+            "url": "clan://localhost/TVBox/xzy.json",
+            "name": "🎁xzy[本地接口]"
+        },
+
+
+
+//DRPY线路
+        {
+           "url": "http://101.34.67.237/config/1",
+           "name":"↓↓↓点击选择🏡DRPY线路"
+        },
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "🐱道长在线1[DRPY接口]"
+        },
+        {
+            "url": "http://101.34.67.237/config/2",
+            "name": "🐱道长在线2[DRPY接口]"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "name": "🐱道长在线3[DRPY接口]"
+        },
+        {
+            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🐱星河软件园[DRPY接口]"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
+            "name": "🐱甜蜜[DRPY接口]"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+            "name": "🐱玖妖[DRPY接口]"
+        },
+        {
+            "url": "https://drpy.owen10086.repl.co/config/2",
+            "name": "🐱云盘在线[DRPY接口]"
+        },
+
+
+
+
+
+//网络线路        
+        {
+           "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
            "name":"↓↓↓点击选择🏡网络收集"
         },
          {
@@ -288,9 +293,11 @@
         },
 
 
-//网络大神VIP线路
+
+
+//VIP线路
         {
-           "url": "",
+           "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
            "name":"↓↓↓点击选择🏡VIP线路"
         },
         {
