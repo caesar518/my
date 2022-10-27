@@ -35,8 +35,8 @@
 
 //DRPY
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-            "name": "🐱道长在线[DRPY接口]"
+            "url": "https://drpy.owen10086.repl.co/config/2",
+            "name": "🐱云盘在线[DRPY接口]"
         },
         {
             "url": "http://101.34.67.237/config/1",
@@ -73,7 +73,6 @@
 
 
 //网络大神线路        
-        
          {
             "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
             "name": "🕍最全接口1[多条线路]"
@@ -115,6 +114,14 @@
             "name": "🐰吾爱评测[多条线路]"
         },
         {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🏋🏻每日神器[多条线路]"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🎸刚刚[多条线路]"
+        }, 
+        {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🐻潇洒[多条线路]"
         }, 
@@ -122,10 +129,6 @@
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "🐱老刘备[多条线路]"
         },
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "🎸刚刚[多条线路]"
-        }, 
          {
             "url": "http://js.134584.xyz/json/pp87.json",
             "name": "🎸白嫖[多条线路]"
@@ -173,10 +176,6 @@
         {
             "url": "https://pan.css.lc/api/v3/file/get/89954/%E5%8D%8A%E7%BB%BF%E8%89%B2%E5%8D%8A%E6%AD%A3%E5%B8%B8.txt?sign=7Fil1Cp5troAPHAQ-xFw-0CcpjenFdnUAZjFuQ8VnMk%3D%3A0",
             "name": "🐱星河软件园[多条线路]"
-        },
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "🏋🏻每日神器[多条线路]"
         },
         {
             "url": "https://php.dawwiqingyi.repl.co/json/yyds.json",
@@ -282,6 +281,10 @@
 
 //网络大神VIP线路
         {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
+            "name": "🐝月光宝盒PLUS[多条线路]"
+        },
+        {
             "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
             "name": "🐝电视免VIP[多条线路]"
         },
@@ -305,10 +308,6 @@
             "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
             "name": "🐝wlyz88FL",
             "time": "2022-08-26 02:00:00[多条线路]"
-        },
-        {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
-            "name": "🐝月光宝盒PLUS[多条线路]"
         },
         {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
