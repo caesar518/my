@@ -3,6 +3,29 @@
 {
     "urls": [
 
+//本地线路 
+        {"url": "clan://localhost/TVBox/无忧.json","name":"↓↓↓点击选择🏡本地线路"},
+        {"url": "clan://localhost/TVBox/无忧.json","name": "🎁无忧专线[本地接口]"},
+        {"url": "clan://localhost/TVBox/js.json","name":"🐲JS专线"},
+        {"url": "clan://localhost/TVBox/py/py.txt","name":"🍺PY专线"},
+        {"url": "clan://localhost/TVBox/云星家庭.json","nme":"✈️云星家庭线路"},
+        {"url": "clan://localhost/TVBox/云星哔哩.json","name":"⛴️云星哔哩线路"},
+        {"url": "clan://localhost/TVBox/云星阿里.json","name":"🚔云星阿里线路"},
+        {"url": "clan://localhost/TVBox/刚刚.json","name":"🐿️刚刚线路"},
+        {"url": "clan://localhost/TVBox/南风XC.json","name":"🛸南风XC线路"},
+        {"url": "clan://localhost/TVBox/无名.json","name":"🥤无名线路"},
+        {"url": "clan://localhost/TVBox/C线.json","name":"🥃C线路"},
+        {"url": "clan://localhost/TVBox/神器.json","name":"🚀神器线路"},
+        {"url": "clan://localhost/TVBox/18.json","name": "💋666线路"},
+
+        {"url": "clan://localhost/TVBox/my.json","name": "🎁自用2[本地接口]"},
+        {"url":"clan://localhost/TVBox/JS/js.json","name":"🔔吾爱[本地接口]"},
+        {"url": "clan://localhost/TVBox/index.json","name": "🎁欧歌[本地接口]"},
+        {"url": "clan://localhost/TVBox/qiaoji00.json","name": "🎁qiaoji00[本地接口]"},
+        {"url": "clan://localhost/TVBox/xzy.json","name": "🎁xzy[本地接口]"},
+
+
+
 //大神线路
         {
            "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
@@ -148,7 +171,6 @@
             "url": "https://pan.css.lc/api/v3/file/get/89954/%E5%8D%8A%E7%BB%BF%E8%89%B2%E5%8D%8A%E6%AD%A3%E5%B8%B8.txt?sign=7Fil1Cp5troAPHAQ-xFw-0CcpjenFdnUAZjFuQ8VnMk%3D%3A0",
             "name": "🐱星河软件园[csp线路]"
         },
-//     {"url":"https://dlj2.cn/星辰影视","name":"👀电视免VIP[星辰影视]"},http://47.242.90.42:8888/down/2YPZ9Cq8lp8L
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "👀南风接口[多条线路]"
@@ -161,29 +183,6 @@
             "url": "https://dlj2.cn/自用",
             "name": "⛽️自用[多条线路]"
         },
-
-
-
-//本地线路 
-        {"url": "clan://localhost/TVBox/无忧.json","name":"↓↓↓点击选择🏡本地线路"},
-        {"url": "clan://localhost/TVBox/无忧.json","name": "🎁无忧专线[本地接口]"},
-        {"url": "clan://localhost/TVBox/js.json","name":"🐲JS专线"},
-        {"url": "clan://localhost/TVBox/py/py.txt","name":"🍺PY专线"},
-        {"url": "clan://localhost/TVBox/云星家庭.json","nme":"✈️云星家庭线路"},
-        {"url": "clan://localhost/TVBox/云星哔哩.json","name":"⛴️云星哔哩线路"},
-        {"url": "clan://localhost/TVBox/云星阿里.json","name":"🚔云星阿里线路"},
-        {"url": "clan://localhost/TVBox/刚刚.json","name":"🐿️刚刚线路"},
-        {"url": "clan://localhost/TVBox/南风XC.json","name":"🛸南风XC线路"},
-        {"url": "clan://localhost/TVBox/无名.json","name":"🥤无名线路"},
-        {"url": "clan://localhost/TVBox/C线.json","name":"🥃C线路"},
-        {"url": "clan://localhost/TVBox/神器.json","name":"🚀神器线路"},
-        {"url": "clan://localhost/TVBox/18.json","name": "💋666线路"},
-
-        {"url": "clan://localhost/TVBox/my.json","name": "🎁自用2[本地接口]"},
-        {"url":"clan://localhost/TVBox/JS/js.json","name":"🔔吾爱[本地接口]"},
-        {"url": "clan://localhost/TVBox/index.json","name": "🎁欧歌[本地接口]"},
-        {"url": "clan://localhost/TVBox/qiaoji00.json","name": "🎁qiaoji00[本地接口]"},
-        {"url": "clan://localhost/TVBox/xzy.json","name": "🎁xzy[本地接口]"},
 
 
 
