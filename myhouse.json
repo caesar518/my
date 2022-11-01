@@ -5,8 +5,10 @@
 //3.打开“classes.dex”，打开方式“Dex编辑器++”
 //4.浏览“androidx"-"base",查找“const-string p1”大约在第69行“ABC”
 //5.“ABC”修改为“https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json”
-//内置仓库线路1：https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json
-//内置仓库线路2：https://github.com/caesar518/my/raw/main/myhouse.json
+//内置仓库agit线路：https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json
+//内置仓库github线路：https://github.com/caesar518/my/raw/main/myhouse.json
+//内置仓库github加速线路：https://cdn.jsdelivr.net/gh/caesar518/my@main/myhouse.json
+
 //6.自动签名保存，仓库内置完毕。
 
 //仓库格式如下：
@@ -15,8 +17,9 @@
     [
     {"sourceName":"✨agit1仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"},
     {"sourceName":"✨agit2仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"},
-    {"sourceName":"⛽️github1仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
-    {"sourceName":"⛽️github2仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},
+//    {"sourceName":"⛽️github1仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
+//    {"sourceName":"⛽️github2仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},       {"sourceName":"⛽️github加速①仓","sourceUrl":"https://cdn.jsdelivr.net/gh/caesar518/my@main/mybox.txt"},
+   {"sourceName":"⛽️github加速②仓","sourceUrl":"https://cdn.jsdelivr.net/gh/caesar518/my@main/mybox2.txt"},
     {"sourceName": "🏓安卓哥①号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
     {"sourceName": "🏓安卓哥②号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
     {"sourceName": "🏓安卓哥③号仓","sourceUrl": "https://raw.fastgit.org/leevi0709/apps/main/3"},
