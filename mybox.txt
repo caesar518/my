@@ -3,24 +3,22 @@
 {
     "urls": [
 
-//本地线路 
-        {"url": "clan://localhost/TVBox/my.jsonn","name":"↓↓↓点击选择🏡本地线路"},
-        {"url": "clan://localhost/TVBox/my.json","name": "🎁自用2[本地接口]"},
-        {"url":"clan://localhost/TVBox/JS/js.json","name":"🔔吾爱[本地接口]"},
-        {"url": "clan://localhost/TVBox/index.json","name": "🎁欧歌[本地接口]"},
-        {"url": "clan://localhost/TVBox/qiaoji00.json","name": "🎁qiaoji00[本地接口]"},
-        {"url": "clan://localhost/TVBox/xzy.json","name": "🎁xzy[本地接口]"},
-
-
-
 //大神线路
         {
-           "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
+           "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
            "name":"↓↓↓点击选择🔔大神线路"
         },
         {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/m.json",
+            "name":"🐤应用多多1[多条线路]"
+        },
+        {
+            "url":"https://gitlab.com/duomv/duo/-/raw/main/t.json",
+            "name":"🐤应用多多2[多条线路]"
+        },
+        {
             "url":"https://raw.iqiq.io/leevi0709/duo/main/v.json",
-            "name":"🐤应用多多[多条线路]"
+            "name":"🐤应用多多3[多条线路]"
         },
         {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
