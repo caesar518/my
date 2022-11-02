@@ -20,11 +20,8 @@
 
     {"sourceName":"✨agit1仓","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"},
     {"sourceName":"✨agit2仓","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"},
-//    {"sourceName":"⛽️github1仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
-//    {"sourceName":"⛽️github2仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},
-    {"sourceName":"⛽️git加速1仓","sourceUrl":"https://cdn.jsdelivr.net/gh/caesar518/my@main/mybox.txt"},
-    {"sourceName":"⛽️git加速2仓","sourceUrl":"https://cdn.jsdelivr.net/gh/caesar518/my@main/mybox2.txt"},
-
+    {"sourceName":"⛽️github1仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
+    {"sourceName":"⛽️github2仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},
 
     {"sourceName":"☁️云星在线","sourceUrl":"https://maoyingshi.cc/可视TV/127/api.json"},
 
