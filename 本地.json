@@ -2,18 +2,38 @@
 
 {
     "urls": [
-        {"url": "clan://localhost/TVBox/无忧.json","name":"↓↓↓点击选择🏡本地线路"},
-        {"url": "clan://localhost/TVBox/无忧.json","name":"👍🏻无忧专线"},
-        {"url": "clan://localhost/TVBox/js.json","name":"🐲JS专线"},
-        {"url": "clan://localhost/TVBox/py/py.txt","name":"🍺PY专线"},
-        {"url": "clan://localhost/TVBox/云星家庭.json","nme":"✈️云星家庭线路"},
-        {"url": "clan://localhost/TVBox/云星哔哩.json","name":"⛴️云星哔哩线路"},
-        {"url": "clan://localhost/TVBox/云星阿里.json","name":"🚔云星阿里线路"},
+        {
+            "url": "clan://localhost/TVBox/云星家庭.json",
+            "name": "↓↓↓点击选择🏡本地线路"
+        },    
+        {
+            "url": "clan://localhost/TVBox/云星家庭.json",
+            "name": "☁️云星家庭本地〔纯绿色家庭版〕"
+        },
+        {
+            "url": "clan://localhost/TVBox/云星阿里.json",
+            "name": "☁️云星阿里本地〔小纸条/推送等〕"
+        },
+        {
+            "url": "clan://localhost/TVBox/云星哔哩.json",
+            "name": "☁️云星哔哩本地〔大套餐/学堂等〕"
+        },
         {"url": "clan://localhost/TVBox/刚刚.json","name":"🐿️刚刚线路"},
-        {"url": "clan://localhost/TVBox/南风XC.json","name":"🛸南风XC线路"},
-        {"url": "clan://localhost/TVBox/无名.json","name":"🥤无名线路"},
-        {"url": "clan://localhost/TVBox/C线.json","name":"🥃C线路"},
-        {"url": "clan://localhost/TVBox/神器.json","name":"🚀神器线路"},
-        {"url": "clan://localhost/TVBox/18.json","name": "💋666线路"}
+ {"url": "clan://localhost/TVBox/js.json","name":"🐲JS专线"},
+{"url": "clan://localhost/TVBox/py/py.txt","name":"🍺PY专线"},
+{"url": "clan://localhost/TVBox/南风XC.json","name":"🛸南风XC线路"},
+{"url": "clan://localhost/TVBox/无名.json","name":"🥤无名线路"},
+{"url": "clan://localhost/TVBox/C线.json","name":"🥃C线路"},
+{"url": "clan://localhost/TVBox/神器.json","name":"🚀神器线路"},
+{"url": "clan://localhost/TVBox/18.json","name": "💋666线路"}
+
+        
+        
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
     ]
 }
